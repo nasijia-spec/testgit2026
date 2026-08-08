@@ -1,0 +1,27 @@
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list-item-green {
+    color: green;
+}
+
+.sublist-item-red {
+    color: red;
+}
+
+.sublist-item-blue {
+    color: blue;
+}

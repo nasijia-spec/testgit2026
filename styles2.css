@@ -1,0 +1,60 @@
+.green-text {
+    color: green;
+}
+
+.red-text {
+    color: red;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list-item-green {
+    color: green;
+}
+
+.sublist-item-red {
+    color: red;
+}
+
+.sublist-item-blue {
+    color: blue;
+}
+
+.list-item-orange {
+    color: orange;
+}
+
+.size-xxsmall {
+    font-size: xx-small;
+}
+
+.size-xsmall {
+    font-size: x-small;
+}
+
+.size-small {
+    font-size: small;
+}
+
+.size-medium {
+    font-size: medium;
+}
+
+/* Добавил large — его раньше не было */
+.size-large {
+    font-size: large;
+}
+
+.size-xlarge {
+    font-size: x-large;
+}
+
+.size-xxlarge {
+    font-size: xx-large;
+}
